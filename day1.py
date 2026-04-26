@@ -42,7 +42,7 @@ elif (gpa>=0 and gpa<=1.9):
 
 else:
     
-    print("This is Failed")
+    print("This is invalid")
 
 
 
